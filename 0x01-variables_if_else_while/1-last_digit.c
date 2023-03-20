@@ -22,6 +22,10 @@ int main(void)
 	{
 		printf("and is greater than 5");
 	}
+	else if (x == 0)
+	{
+		printf(" and is 0")
+	}
 	if (x < 6 && x != 0)
 	{
 		printf("and is less than 6 and not 0");
